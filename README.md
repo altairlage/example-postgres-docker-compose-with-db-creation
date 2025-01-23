@@ -1,6 +1,8 @@
-# example-postgres-docker-compose-with-db-creation
+# Example PostgreSQL Docker Compose with Database Creation
 
 This repository demonstrates how to set up a PostgreSQL environment using Docker Compose, including the execution of database initialization scripts upon startup.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="200" />
 
 ## Repository Contents
 
@@ -17,6 +19,8 @@ This repository demonstrates how to set up a PostgreSQL environment using Docker
    ```
 
 2. **Start the Services**:
+
+   <img src="https://miro.medium.com/v2/format:webp/0*lQHBTNViWBhPsTtF." alt="Docker Compose Logo" width="300" />
 
    Use Docker Compose to build and start the services defined in `docker-compose.yml`:
 
